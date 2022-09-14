@@ -1,7 +1,7 @@
 <div align="center" style="font-family: monospace;">
 <img src="https://github.com/woidzero/regfex/blob/main/icon.png?raw=true">
 
-<h2>RegFex</h2>
+<h1>RegFex</h1>
 <p>Python module for get regular expressions from .re files</p>
 
 <a href="https://pypi.org/project/regfex/"><img src="https://img.shields.io/badge/pypi-0.0.1-fff?style=for-the-badge"></a>
