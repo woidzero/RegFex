@@ -7,7 +7,7 @@ import re
 @dataclass
 class loadFile:
     """
-    Read a .re file and returns its contents.
+    Read a .re file and returns its content.
     
     ### Arguments
     - `filePath (str)`: Path to local file.
