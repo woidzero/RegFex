@@ -11,7 +11,7 @@ Python module for get regular expressions from .re files</p>
 >  pip install regfex
 > ```
 
-## Using 
+## Usage 
 > ```python
 > import regfex
 > 
