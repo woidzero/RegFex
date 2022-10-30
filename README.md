@@ -1,13 +1,13 @@
 # RegFex
-Python module for get regular expressions from .re files</p>
+Get regular expressions from .re files!
 
 ## Installation
-> `Linux`
+> Linux
+> ```bash
+>  python3.10 -m pip install regfex
 > ```
->  python3 -m pip install regfex
-> ```
-> `Windows`
-> ```
+> Windows
+> ```bash
 >  pip install regfex
 > ```
 
@@ -27,5 +27,4 @@ Python module for get regular expressions from .re files</p>
 > ```
 
 ## Support
-
 For support, email <a href="mailto://woidzeroo@gmail.com">woidzeroo@gmail.com</a> or join Discord - <a href="https://discord.gg/bD2uaxkqQW">@woidzero_notes</a>
