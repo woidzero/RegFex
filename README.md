@@ -28,4 +28,4 @@ Python module for get regular expressions from .re files</p>
 
 ## Support
 
-For support, email <a href="mailto://contact@woidzero.xyz">contact@woidzero.xyz</a> or join Discord - <a href="https://discord.gg/bD2uaxkqQW">Tacet Community</a>
+For support, email <a href="mailto://woidzeroo@gmail.com">woidzeroo@gmail.com</a> or join Discord - <a href="https://discord.gg/bD2uaxkqQW">@woidzero_notes</a>
