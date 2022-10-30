@@ -1,4 +1,7 @@
 # main.py
+# Get regular expressions from .re files!
+# https://github.com/woidzero/RegFex.git
+
 
 from dataclasses import dataclass
 import re
@@ -17,10 +20,10 @@ class loadFile:
 
     def getKey(self, key: str) -> str:
         """
-        Tries to get key from .re file contents if possible.
+        Tries to get key from .re file if possible.
 
         ### Arguments
-        - `key`: Key to get.
+        - `key`: The key to find.
         """
         with open(self.filePath, 'r') as f:
             content = f.read()
