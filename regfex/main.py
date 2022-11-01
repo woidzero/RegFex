@@ -6,7 +6,6 @@
 from dataclasses import dataclass
 import re
 
-None
 
 @dataclass
 class loadFile:
